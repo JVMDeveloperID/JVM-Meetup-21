@@ -14,12 +14,16 @@ Speaker :
 2. Fitrah Elly Firdaus (Software Engineer, Bukalapak) : "How Do we rewrite Config and Toggle Management System using caffeine and Spring boot."
  
 
-![JVM Meetup #21 Poster](img/JVM21_Landscape.jpeg "JVM Meetup #20 Poster")
+![JVM Meetup #21 Poster](img/jvm21_Landscape.jpeg "JVM Meetup #20 Poster")
 
 ## JVM MEETUP 21 PHOTO SESSION
-![JVM 21 Photo Session](img/jvm21_photosession1.JPG "JVM 21 Photo Session")
+![JVM 21 Photo Session](img/jvm21_photosession1.jpeg "JVM 21 Photo Session")
 
-![JVM 21 Photo Session](img/jvm21_photosession2.JPG "JVM 21 Photo Session")
+![JVM 21 Photo Session](img/jvm21_photosession2.jpeg "JVM 21 Photo Session")
+
+![JVM 21 Photo Session](img/jvm21_photosession3.jpeg "JVM 21 Photo Session")
+
+![JVM 21 Photo Session](img/jvm21_photosession4.jpeg "JVM 21 Photo Session")
 
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
